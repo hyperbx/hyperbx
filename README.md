@@ -1,10 +1,10 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/HyperPolygon64/HyperPolygon64/master/izanagi_repo.gif" width="230" height="230"/>
+    <img src="https://raw.githubusercontent.com/HyperPolygon64/HyperPolygon64/master/izanagi_repo.gif"/>
 </p>
 
 <h1 align="center">HyperPolygon64</h1>
 
-<h3 align="center">A work-in-progress programmer and reverse-engineer for SONIC THE HEDGEHOG (2006) file formats</h3>
+<h3 align="center">A work-in-progress programmer and reverse-engineer</h3>
 
 <br>
 
