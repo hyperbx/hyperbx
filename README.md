@@ -1,7 +1,5 @@
 <h1 align="center">Hyper</h1>
 
-<h3 align="center">A work-in-progress programmer and reverse-engineer</h3>
-
 <br>
 
 <p align="center">
